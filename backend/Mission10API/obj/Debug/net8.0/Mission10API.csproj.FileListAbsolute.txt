@@ -252,4 +252,3 @@ C:\Users\harts\source\repos\Mission10new\backend\Mission10API\obj\Debug\net8.0\r
 C:\Users\harts\source\repos\Mission10new\backend\Mission10API\obj\Debug\net8.0\Mission10API.pdb
 C:\Users\harts\source\repos\Mission10new\backend\Mission10API\obj\Debug\net8.0\Mission10API.genruntimeconfig.cache
 C:\Users\harts\source\repos\Mission10new\backend\Mission10API\obj\Debug\net8.0\ref\Mission10API.dll
-C:\Users\harts\source\repos\Mission10\backend\Mission10API\obj\Debug\net8.0\Mission10API.sourcelink.json
