@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|c:\\users\\harts\\source\\repos\\mission10\\backend\\mission10api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|c:\\users\\harts\\source\\repos\\mission10\\backend\\mission10api\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|c:\\users\\harts\\source\\repos\\mission10\\backend\\mission10api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|c:\\users\\harts\\source\\repos\\mission10\\backend\\mission10api\\data\\bowlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|solutionrelative:data\\bowlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|c:\\users\\harts\\source\\repos\\mission10\\backend\\mission10api\\data\\efbowlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|solutionrelative:data\\efbowlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|c:\\users\\harts\\source\\repos\\mission10\\backend\\mission10api\\data\\ibowlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|solutionrelative:data\\ibowlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|c:\\users\\harts\\source\\repos\\mission10\\backend\\mission10api\\data\\bowlerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DAC45-B148-4E79-AB71-B45A06613AB0}|Mission10API.csproj|solutionrelative:data\\bowlerscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bowlers.cs",
+              "DocumentMoniker": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\Bowlers.cs",
+              "RelativeDocumentMoniker": "Data\\Bowlers.cs",
+              "ToolTip": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\Bowlers.cs",
+              "RelativeToolTip": "Data\\Bowlers.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:37:22.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFBowlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\EFBowlRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFBowlRepository.cs",
+              "ToolTip": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\EFBowlRepository.cs",
+              "RelativeToolTip": "Data\\EFBowlRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:27:59.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T03:32:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:07:31.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Controllers\\BowlerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:24:53.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBowlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\IBowlRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IBowlRepository.cs",
+              "ToolTip": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\IBowlRepository.cs",
+              "RelativeToolTip": "Data\\IBowlRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:17:27.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BowlersContext.cs",
+              "DocumentMoniker": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\BowlersContext.cs",
+              "RelativeDocumentMoniker": "Data\\BowlersContext.cs",
+              "ToolTip": "C:\\Users\\harts\\source\\repos\\Mission10\\backend\\Mission10API\\Data\\BowlersContext.cs",
+              "RelativeToolTip": "Data\\BowlersContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:12:37.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
